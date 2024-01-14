@@ -79,7 +79,7 @@ const Layout = ({children})=>{
     return (
         <>
             <nav className="w-full fixed top-0 z-50 flex justify-around py-3 px-[10%] items-center shadow-lg bg-white">
-                  <img src="./images/logo.svg" />  
+                  <img src="./images/logo.svg" allt="logo" />  
                   <div className="flex items-center gap-2">
                     <span>Banglore</span>
                     <i className="fa fa-angle-down"></i>
