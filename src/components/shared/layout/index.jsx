@@ -91,7 +91,7 @@ const Layout = ({children})=>{
                   </div>
                   <button className="bg-[#F90102] py-[8px] px-[12px] rounded-lg border text-white hover:bg-white hover:border-red-500 hover:text-[#F90102]">LOGIN / SIGNUP</button>
             </nav>
-            <section className="p-20 relative">
+            <section className="relative">
               <h1>{children}</h1>
             </section>
             <footer className="bg-[#F5F7FA] px-[10%] py-5">

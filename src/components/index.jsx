@@ -1,10 +1,10 @@
 import Layout from "./shared/layout"
+import HomePage from "./homepage"
 const Index = ()=>{
     return (
-        <>
-            <Layout>
-            </Layout>
-        </>
+        <Layout>
+            <HomePage />
+        </Layout>
     )
 }
 
